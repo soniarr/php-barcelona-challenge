@@ -1,0 +1,3 @@
+challenge:
+  path: /challenge
+  controller: App\Controller\Old\Challenge
